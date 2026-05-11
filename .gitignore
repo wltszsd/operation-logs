@@ -1,0 +1,17 @@
+# 敏感文件 - 不要上传到 GitHub
+.git-credentials
+cc-og/.git-credentials
+
+# Claude 内部文件（含对话历史和可能的 token）
+cc-og/.claude/history.jsonl
+cc-og/.claude/projects/
+cc-og/.claude/tasks/
+cc-og/.claude/sessions/
+cc-og/.claude/session-env/
+cc-og/.claude/shell-snapshots/
+cc-og/.claude/backups/
+cc-og/.claude/telemetry/
+cc-og/.claude/cache/
+cc-og/.claude/file-history/
+cc-og/.claude/plans/
+cc-og/.claude/downloads/

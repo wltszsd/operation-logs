@@ -1,0 +1,9 @@
+[user]
+	name = wltszsd
+	email = 1950397149@qq.com
+[http]
+	proxy = http://127.0.0.1:7890
+[https]
+	proxy = http://127.0.0.1:7890
+[credential]
+	helper = store
